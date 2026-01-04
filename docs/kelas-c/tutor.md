@@ -33,5 +33,5 @@ pada tahapan ini anda telah selesai membuat akun github. silakan login menggunak
 ## 10. **ISI TITLE DENGAN NAMA MENGGUNAKAN HURUF KECIL**
 
 credit: 
-**1. dimas yoga irtanto**
-**2. muhammad ridho nur islam**      
+**1. Dimas Yoga Irtanto**
+**2. Muhammad Ridho Nur Islam**      
